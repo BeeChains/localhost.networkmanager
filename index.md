@@ -2,4 +2,4 @@
 
 This is a [HANDSHAKE](https://handshake.org/)
 
--go to (http://admin.networkmanager/)
+-go to [admin.networkmanager](http://admin.networkmanager/)
